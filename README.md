@@ -4,11 +4,11 @@
     <img src="k6s/static/images/woman.png" alt="Logo" width="500" height="900">
   </a>
 </div>
-We are glad that you are interested in x edition... 
-In this task there are only winners! The guaranteed prize are skills that you will acquire during this task,
+We are glad that you are interested in this year's edition... <br/>
+In this task there are only winners! The guaranteed prize are skills that you will acquire during this task, 
 but you can also be one of the Orange Hi-Tech girls! To get more info, click on the image above.
 
-Your general objective is to find out what `k6s` means. Let's get started!
+Your general objective is to find out what `k6s` means. Let's get started! <br/>
 
 ## First Task
 1. Fork this project to your private github.com repo
