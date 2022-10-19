@@ -1,0 +1,227 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    font-family: 'HelveticaNeueLT';
+    font-weight: normal;
+    font-style: normal;
+    overflow-x: hidden;
+    font-size: 2rem;
+    line-height: 2.8rem;
+    color: #000;
+}
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0px;
+    padding: 0px;
+}
+h1,h2,h3,h4,h5,h6{
+    font-weight: bold;
+    margin-top: 2rem;
+    color: #000;
+}
+ul,ol{
+    margin: 0px;
+    padding:0px;
+    list-style: none;
+}
+.d-flex-w{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+.d-new{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.d-align{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.d-new-a{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+     -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+a{
+    text-decoration: none !important;
+    outline: none !important;
+    color: #000000;
+}
+p{
+    margin-top: 1rem;
+}
+ul li{
+    position: relative;
+    padding-left: 1.5rem;
+}
+ul li:after {
+    position: absolute;
+    content: "-";
+    left: 0;
+    top: 0.15rem;
+}
+@media (min-width: 576px) {
+    .container {
+        max-width: 540px;
+    }
+}
+@media (min-width: 768px) {
+    .container {
+        max-width: 720px;
+    }
+}
+@media (min-width: 992px) {
+    .container {
+        max-width: 960px;
+    }
+}
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1170px;
+    }
+}
+@media (min-width: 1360px) {
+  .container {
+    max-width: 1300px;
+  }
+}
+@media (min-width: 1460px) {
+  .container {
+    max-width: 1430px;
+  }
+}
+@media (min-width: 1560px) {
+  .container {
+      max-width: 1530px;
+  }
+}
+@media (min-width: 1700px) {
+  .container {
+      max-width: 1670px;
+  }
+}
+.fw-180,.fw-180 *{
+    margin: 0 !important;
+    font-size: 18rem;
+    line-height: 16rem;
+    letter-spacing: -0.02em;
+}
+.fw-100,.fw-100 *{
+    margin: 0 !important;
+    font-size: 10rem;
+    line-height: 12rem;
+    letter-spacing: -0.02em;
+}
+@media(min-width: 1560px) and (max-width: 1699px){
+    .fw-180, .fw-180 * {
+        font-size: 15rem;
+        line-height: 13rem;
+    }
+    .fw-100, .fw-100 * {
+        font-size: 8rem;
+        line-height: 10rem;
+    }
+}
+@media(min-width: 1460px) and (max-width: 1559px){
+    body{
+        font-size: 1.8rem;
+        line-height: 2.8rem;
+    }
+    .fw-180, .fw-180 * {
+        font-size: 14rem;
+        line-height: 12rem;
+    }
+    .fw-100, .fw-100 * {
+        font-size: 7rem;
+        line-height: 9rem;
+    }
+}
+@media(min-width: 1360px) and (max-width: 1459px){
+    body{
+        font-size: 1.8rem;
+        line-height: 2.8rem;
+    }
+    .fw-180, .fw-180 * {
+        font-size: 13rem;
+        line-height: 12rem;
+    }
+    .fw-100, .fw-100 * {
+        font-size: 8rem;
+        line-height: 10rem;
+    }
+}
+@media(min-width: 1200px) and (max-width: 1359px){
+    body{
+        font-size: 1.7rem;
+        line-height: 2.7rem;
+    }
+    .fw-180, .fw-180 * {
+        font-size: 11rem;
+        line-height: 9rem;
+    }
+    .fw-100, .fw-100 * {
+        font-size: 6rem;
+        line-height: 8rem;
+    }
+}
+@media(min-width: 992px) and (max-width: 1199px){
+    body{
+        font-size: 1.5rem;
+        line-height: 2.3rem;
+    }
+    .fw-180, .fw-180 * {
+        font-size: 11rem;
+        line-height: 10rem;
+    }
+    .fw-100, .fw-100 * {
+        font-size: 5rem;
+        line-height: 6rem;
+    }
+}
+@media(min-width: 768px) and (max-width: 991px){
+    body{
+        font-size: 1.6rem;
+        line-height: 2.4rem;
+    }
+    .fw-180, .fw-180 * {
+        font-size: 13rem;
+        line-height: 12rem;
+    }
+    .fw-100, .fw-100 * {
+        font-size: 8rem;
+        line-height: 10rem;
+    }
+}
+@media(max-width: 767px){
+    body{
+        font-size: 1.5rem;
+        line-height: 2.3rem;
+    }
+    .fw-180, .fw-180 * {
+        font-size: 8rem;
+        line-height: 7rem;
+    }
+    .fw-100, .fw-100 * {
+        font-size: 4rem;
+        line-height: 6rem;
+    }
+}
