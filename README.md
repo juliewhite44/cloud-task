@@ -1,7 +1,7 @@
 ## Hi, tech girl! Welcome to the cloud task!
 <div align="center">
   <a href="https://hitechgirl.pl">
-    <img src="images/hi_tech_girls.png" alt="Logo" width="900" height="500">
+    <img src="k6s/static/images/woman.png" alt="Logo" width="900" height="500">
   </a>
 </div>
 We are glad that you are interested in x edition... 
