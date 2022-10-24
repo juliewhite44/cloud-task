@@ -4,10 +4,10 @@
     <img src="k6s/static/images/woman.png" alt="Logo" width="500" height="900">
   </a>
 </div>
-Bardzo nam miło, że jesteś zainteresowana udziałem w tegorocznej edycji konkursu...
+Bardzo nam miło, że jesteś zainteresowana udziałem w tegorocznej edycji konkursu.
 <br/>
 W tym zadaniu są sami zwycięzcy!
-Gwartantowana nagrodą są wszelkie zdolności, które zdobędziesz podczas wykonywania kolejnych instrukcji, ale możesz zostać również jedną z Orange Hi-Tech girls! Aby uzyskać więcej informacji, kliknij na powyższy obrazek.
+Gwartantowaną nagrodą są wszelkie zdolności, które zdobędziesz podczas wykonywania kolejnych instrukcji, ale możesz zostać również jedną z Orange Hi-Tech Girls! Aby uzyskać więcej informacji, kliknij na powyższy obrazek.
 Twoim zadaniem jest dowiedzieć się, co oznacza 'k6s'. Zaczynajmy!
 
 ## Pierwsze zadanie.
