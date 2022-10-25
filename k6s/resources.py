@@ -56,7 +56,7 @@ class Instructions(FlaskView):
             with open('ins2', 'r') as f:
                 ins = base64.b64decode(f.read()).decode('utf-8')
         else:
-            with open('ins3', 'r') as f:
+            with open('ins1', 'r') as f:
                 ins = base64.b64decode(f.read()).decode('utf-8')
 
         response = make_response(self._make_html(ins), 200)
