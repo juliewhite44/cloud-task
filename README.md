@@ -11,12 +11,12 @@ Gwartantowaną nagrodą są wszelkie zdolności, które zdobędziesz podczas wyk
 Twoim zadaniem jest dowiedzieć się, co oznacza 'k6s'. Zaczynajmy!
 
 ## Pierwsze zadanie.
-1. Wykonaj fork'a tego projektu do swojego prywatnego repozytorium na github.com
-2. Sklonuj je na swój komputer
-3. Upewnij się, że masz zainstalowanego Python'a w wersij 3.8.1+
-4. Upewnij się, że wszystkie zależności Python'a są spełnione
-5. Uruchom aplikację komendą `python run.py`
-6. Przejdź do _skonfigurowanego_ adresu, aby przejść do zadania!
+1. Sklonuj to repo na swój komputer.
+2. Upewnij się, że masz zainstalowanego Python'a w wersij 3.8.1+.
+3. Upewnij się, że wszystkie zależności Python'a są spełnione.
+4. Uruchom aplikację komendą `python run.py`
+5. Przejdź do _skonfigurowanego_ adresu, aby zobaczyć instrukcje do pierwszego zadania!
+6. Utwórz własne prywatne repozytorium z rozwiązaniami zadań. Wyniki poszczególnych etapów dodawaj w oddzielnych commitach. Link do niego zgłoś przez formularz na stronie konkursu (kliknij obrazek wyżej) oraz zaproś do niego użytkownika githuba 'hitechgirls-cloud' w celu oceny zadań.
 
 ### Linki pomocnicze...
 * https://docs.github.com/en
