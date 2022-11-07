@@ -1,0 +1,24 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    app: hitech-deploy
+  name: hitech-deploy
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: hitech-deploy
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: hitech-deploy
+    spec:
+      containers:
+      - image: juliewhite44/hitech-girls:python-docker
+        name: hitech-girls
+        resources: {}
+status: {}
