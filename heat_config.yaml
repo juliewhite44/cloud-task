@@ -1,0 +1,5 @@
+parameters:
+  ssh_key_name: kube
+  external_network: public
+  dns_nameserver: 192.168.200.1
+  server_image: centos-7-atomic-20150101
